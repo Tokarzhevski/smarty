@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="cac8e0c2-7824-4552-88f4-0f6d47264e8e" name="sekvoya" url="http://sekvoya">
+        <fileTransfer port="0" mountedRoot="D:\OpenServer\domains\sekvoya" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
